@@ -1,0 +1,241 @@
+SurveyNum,Species,CountPerSurvey,Region,Island,Moku
+1,eurostus,0,MHI,Oahu,Waianae
+1,flavimarginatus,1,MHI,Oahu,Waianae
+1,meleagris,0,MHI,Oahu,Waianae
+1,undulatus,0,MHI,Oahu,Waianae
+2,eurostus,0,MHI,Oahu,Kona Oahu
+2,flavimarginatus,2,MHI,Oahu,Kona Oahu
+2,meleagris,0,MHI,Oahu,Kona Oahu
+2,undulatus,0,MHI,Oahu,Kona Oahu
+3,eurostus,2,MHI,Oahu,Kona Oahu
+3,flavimarginatus,0,MHI,Oahu,Kona Oahu
+3,meleagris,2,MHI,Oahu,Kona Oahu
+3,undulatus,0,MHI,Oahu,Kona Oahu
+4,eurostus,1,MHI,Oahu,Kona Oahu
+4,flavimarginatus,2,MHI,Oahu,Kona Oahu
+4,meleagris,0,MHI,Oahu,Kona Oahu
+4,undulatus,1,MHI,Oahu,Kona Oahu
+5,eurostus,9,MHI,Oahu,Kona Oahu
+5,flavimarginatus,2,MHI,Oahu,Kona Oahu
+5,meleagris,1,MHI,Oahu,Kona Oahu
+5,undulatus,0,MHI,Oahu,Kona Oahu
+6,eurostus,4,MHI,Oahu,Kona Oahu
+6,flavimarginatus,0,MHI,Oahu,Kona Oahu
+6,meleagris,1,MHI,Oahu,Kona Oahu
+6,undulatus,1,MHI,Oahu,Kona Oahu
+7,eurostus,0,MHI,Hawaii,Kona Hawaii
+7,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+7,meleagris,2,MHI,Hawaii,Kona Hawaii
+7,undulatus,0,MHI,Hawaii,Kona Hawaii
+8,eurostus,0,MHI,Hawaii,Kona Hawaii
+8,flavimarginatus,2,MHI,Hawaii,Kona Hawaii
+8,meleagris,1,MHI,Hawaii,Kona Hawaii
+8,undulatus,1,MHI,Hawaii,Kona Hawaii
+9,eurostus,0,MHI,Hawaii,Kona Hawaii
+9,flavimarginatus,0,MHI,Hawaii,Kona Hawaii
+9,meleagris,1,MHI,Hawaii,Kona Hawaii
+9,undulatus,0,MHI,Hawaii,Kona Hawaii
+10,eurostus,0,MHI,Hawaii,Kona Hawaii
+10,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+10,meleagris,2,MHI,Hawaii,Kona Hawaii
+10,undulatus,0,MHI,Hawaii,Kona Hawaii
+11,eurostus,0,MHI,Hawaii,Kona Hawaii
+11,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+11,meleagris,1,MHI,Hawaii,Kona Hawaii
+11,undulatus,1,MHI,Hawaii,Kona Hawaii
+12,eurostus,3,MHI,Hawaii,Kona Hawaii
+12,flavimarginatus,2,MHI,Hawaii,Kona Hawaii
+12,meleagris,2,MHI,Hawaii,Kona Hawaii
+12,undulatus,1,MHI,Hawaii,Kona Hawaii
+13,eurostus,5,MHI,Hawaii,Kona Hawaii
+13,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+13,meleagris,3,MHI,Hawaii,Kona Hawaii
+13,undulatus,0,MHI,Hawaii,Kona Hawaii
+14,eurostus,1,MHI,Hawaii,Kona Hawaii
+14,flavimarginatus,3,MHI,Hawaii,Kona Hawaii
+14,meleagris,1,MHI,Hawaii,Kona Hawaii
+14,undulatus,0,MHI,Hawaii,Kona Hawaii
+15,eurostus,1,MHI,Hawaii,Kona Hawaii
+15,flavimarginatus,3,MHI,Hawaii,Kona Hawaii
+15,meleagris,1,MHI,Hawaii,Kona Hawaii
+15,undulatus,1,MHI,Hawaii,Kona Hawaii
+16,eurostus,1,MHI,Hawaii,Kona Hawaii
+16,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+16,meleagris,1,MHI,Hawaii,Kona Hawaii
+16,undulatus,0,MHI,Hawaii,Kona Hawaii
+17,eurostus,2,MHI,Hawaii,Kona Hawaii
+17,flavimarginatus,0,MHI,Hawaii,Kona Hawaii
+17,meleagris,0,MHI,Hawaii,Kona Hawaii
+17,undulatus,0,MHI,Hawaii,Kona Hawaii
+18,eurostus,3,MHI,Hawaii,Kona Hawaii
+18,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+18,meleagris,1,MHI,Hawaii,Kona Hawaii
+18,undulatus,0,MHI,Hawaii,Kona Hawaii
+19,eurostus,5,MHI,Hawaii,Kona Hawaii
+19,flavimarginatus,2,MHI,Hawaii,Kona Hawaii
+19,meleagris,0,MHI,Hawaii,Kona Hawaii
+19,undulatus,0,MHI,Hawaii,Kona Hawaii
+20,eurostus,2,MHI,Hawaii,Kohala
+20,flavimarginatus,1,MHI,Hawaii,Kohala
+20,meleagris,2,MHI,Hawaii,Kohala
+20,undulatus,0,MHI,Hawaii,Kohala
+21,eurostus,3,MHI,Hawaii,Kohala
+21,flavimarginatus,1,MHI,Hawaii,Kohala
+21,meleagris,2,MHI,Hawaii,Kohala
+21,undulatus,1,MHI,Hawaii,Kohala
+22,eurostus,1,MHI,Hawaii,Kohala
+22,flavimarginatus,1,MHI,Hawaii,Kohala
+22,meleagris,0,MHI,Hawaii,Kohala
+22,undulatus,2,MHI,Hawaii,Kohala
+23,eurostus,0,MHI,Hawaii,Kohala
+23,flavimarginatus,3,MHI,Hawaii,Kohala
+23,meleagris,1,MHI,Hawaii,Kohala
+23,undulatus,0,MHI,Hawaii,Kohala
+24,eurostus,2,MHI,Hawaii,Kona Hawaii
+24,flavimarginatus,3,MHI,Hawaii,Kona Hawaii
+24,meleagris,2,MHI,Hawaii,Kona Hawaii
+24,undulatus,0,MHI,Hawaii,Kona Hawaii
+25,eurostus,4,MHI,Hawaii,Kona Hawaii
+25,flavimarginatus,0,MHI,Hawaii,Kona Hawaii
+25,meleagris,3,MHI,Hawaii,Kona Hawaii
+25,undulatus,1,MHI,Hawaii,Kona Hawaii
+26,eurostus,2,MHI,Hawaii,Kona Hawaii
+26,flavimarginatus,1,MHI,Hawaii,Kona Hawaii
+26,meleagris,2,MHI,Hawaii,Kona Hawaii
+26,undulatus,0,MHI,Hawaii,Kona Hawaii
+27,eurostus,3,MHI,Hawaii,Kona Hawaii
+27,flavimarginatus,2,MHI,Hawaii,Kona Hawaii
+27,meleagris,0,MHI,Hawaii,Kona Hawaii
+27,undulatus,0,MHI,Hawaii,Kona Hawaii
+28,eurostus,1,MHI,Niihau,Kona Niihau
+28,flavimarginatus,0,MHI,Niihau,Kona Niihau
+28,meleagris,0,MHI,Niihau,Kona Niihau
+28,undulatus,0,MHI,Niihau,Kona Niihau
+29,eurostus,1,MHI,Niihau,Kona Niihau
+29,flavimarginatus,2,MHI,Niihau,Kona Niihau
+29,meleagris,0,MHI,Niihau,Kona Niihau
+29,undulatus,0,MHI,Niihau,Kona Niihau
+30,eurostus,1,NWHI,French Frigate Shoals,French Frigate Shoals
+30,flavimarginatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+30,meleagris,1,NWHI,French Frigate Shoals,French Frigate Shoals
+30,undulatus,1,NWHI,French Frigate Shoals,French Frigate Shoals
+31,eurostus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+31,flavimarginatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+31,meleagris,0,NWHI,French Frigate Shoals,French Frigate Shoals
+31,undulatus,1,NWHI,French Frigate Shoals,French Frigate Shoals
+32,eurostus,3,NWHI,French Frigate Shoals,French Frigate Shoals
+32,flavimarginatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+32,meleagris,0,NWHI,French Frigate Shoals,French Frigate Shoals
+32,undulatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+33,eurostus,2,NWHI,French Frigate Shoals,French Frigate Shoals
+33,flavimarginatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+33,meleagris,0,NWHI,French Frigate Shoals,French Frigate Shoals
+33,undulatus,1,NWHI,French Frigate Shoals,French Frigate Shoals
+34,eurostus,4,NWHI,Maro,Maro
+34,flavimarginatus,0,NWHI,Maro,Maro
+34,meleagris,0,NWHI,Maro,Maro
+34,undulatus,0,NWHI,Maro,Maro
+35,eurostus,0,NWHI,Maro,Maro
+35,flavimarginatus,2,NWHI,Maro,Maro
+35,meleagris,0,NWHI,Maro,Maro
+35,undulatus,0,NWHI,Maro,Maro
+36,eurostus,0,NWHI,Maro,Maro
+36,flavimarginatus,0,NWHI,Maro,Maro
+36,meleagris,0,NWHI,Maro,Maro
+36,undulatus,0,NWHI,Maro,Maro
+37,eurostus,5,NWHI,Maro,Maro
+37,flavimarginatus,0,NWHI,Maro,Maro
+37,meleagris,1,NWHI,Maro,Maro
+37,undulatus,0,NWHI,Maro,Maro
+38,eurostus,1,NWHI,Pearl and Hermes,Pearl and Hermes
+38,flavimarginatus,0,NWHI,Pearl and Hermes,Pearl and Hermes
+38,meleagris,0,NWHI,Pearl and Hermes,Pearl and Hermes
+38,undulatus,0,NWHI,Pearl and Hermes,Pearl and Hermes
+39,eurostus,7,NWHI,Pearl and Hermes,Pearl and Hermes
+39,flavimarginatus,0,NWHI,Pearl and Hermes,Pearl and Hermes
+39,meleagris,0,NWHI,Pearl and Hermes,Pearl and Hermes
+39,undulatus,0,NWHI,Pearl and Hermes,Pearl and Hermes
+40,eurostus,7,NWHI,Midway,Midway
+40,flavimarginatus,0,NWHI,Midway,Midway
+40,meleagris,0,NWHI,Midway,Midway
+40,undulatus,0,NWHI,Midway,Midway
+41,eurostus,0,NWHI,Midway,Midway
+41,flavimarginatus,0,NWHI,Midway,Midway
+41,meleagris,0,NWHI,Midway,Midway
+41,undulatus,0,NWHI,Midway,Midway
+42,eurostus,3,NWHI,Kure,Kure
+42,flavimarginatus,0,NWHI,Kure,Kure
+42,meleagris,0,NWHI,Kure,Kure
+42,undulatus,0,NWHI,Kure,Kure
+43,eurostus,2,NWHI,Kure,Kure
+43,flavimarginatus,0,NWHI,Kure,Kure
+43,meleagris,0,NWHI,Kure,Kure
+43,undulatus,0,NWHI,Kure,Kure
+44,eurostus,3,NWHI,Kure,Kure
+44,flavimarginatus,0,NWHI,Kure,Kure
+44,meleagris,0,NWHI,Kure,Kure
+44,undulatus,0,NWHI,Kure,Kure
+45,eurostus,9,NWHI,Kure,Kure
+45,flavimarginatus,0,NWHI,Kure,Kure
+45,meleagris,0,NWHI,Kure,Kure
+45,undulatus,0,NWHI,Kure,Kure
+46,eurostus,5,NWHI,Pearl and Hermes,Pearl and Hermes
+46,flavimarginatus,1,NWHI,Pearl and Hermes,Pearl and Hermes
+46,meleagris,0,NWHI,Pearl and Hermes,Pearl and Hermes
+46,undulatus,0,NWHI,Pearl and Hermes,Pearl and Hermes
+47,eurostus,1,NWHI,Pearl and Hermes,Pearl and Hermes
+47,flavimarginatus,0,NWHI,Pearl and Hermes,Pearl and Hermes
+47,meleagris,0,NWHI,Pearl and Hermes,Pearl and Hermes
+47,undulatus,3,NWHI,Pearl and Hermes,Pearl and Hermes
+48,eurostus,4,NWHI,Lisianski,Lisianski
+48,flavimarginatus,1,NWHI,Lisianski,Lisianski
+48,meleagris,0,NWHI,Lisianski,Lisianski
+48,undulatus,0,NWHI,Lisianski,Lisianski
+49,eurostus,3,NWHI,Lisianski,Lisianski
+49,flavimarginatus,1,NWHI,Lisianski,Lisianski
+49,meleagris,0,NWHI,Lisianski,Lisianski
+49,undulatus,1,NWHI,Lisianski,Lisianski
+50,eurostus,4,NWHI,Lisianski,Lisianski
+50,flavimarginatus,0,NWHI,Lisianski,Lisianski
+50,meleagris,0,NWHI,Lisianski,Lisianski
+50,undulatus,1,NWHI,Lisianski,Lisianski
+51,eurostus,4,NWHI,Lisianski,Lisianski
+51,flavimarginatus,1,NWHI,Lisianski,Lisianski
+51,meleagris,0,NWHI,Lisianski,Lisianski
+51,undulatus,0,NWHI,Lisianski,Lisianski
+52,eurostus,5,NWHI,Laysan,Laysan
+52,flavimarginatus,1,NWHI,Laysan,Laysan
+52,meleagris,0,NWHI,Laysan,Laysan
+52,undulatus,0,NWHI,Laysan,Laysan
+53,eurostus,3,NWHI,Laysan,Laysan
+53,flavimarginatus,1,NWHI,Laysan,Laysan
+53,meleagris,0,NWHI,Laysan,Laysan
+53,undulatus,0,NWHI,Laysan,Laysan
+54,eurostus,4,NWHI,French Frigate Shoals,French Frigate Shoals
+54,flavimarginatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+54,meleagris,0,NWHI,French Frigate Shoals,French Frigate Shoals
+54,undulatus,1,NWHI,French Frigate Shoals,French Frigate Shoals
+55,eurostus,4,NWHI,French Frigate Shoals,French Frigate Shoals
+55,flavimarginatus,2,NWHI,French Frigate Shoals,French Frigate Shoals
+55,meleagris,0,NWHI,French Frigate Shoals,French Frigate Shoals
+55,undulatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+56,eurostus,3,NWHI,French Frigate Shoals,French Frigate Shoals
+56,flavimarginatus,0,NWHI,French Frigate Shoals,French Frigate Shoals
+56,meleagris,0,NWHI,French Frigate Shoals,French Frigate Shoals
+56,undulatus,3,NWHI,French Frigate Shoals,French Frigate Shoals
+57,eurostus,0,MHI,Niihau,Kona Niihau
+57,flavimarginatus,1,MHI,Niihau,Kona Niihau
+57,meleagris,1,MHI,Niihau,Kona Niihau
+57,undulatus,0,MHI,Niihau,Kona Niihau
+58,eurostus,2,MHI,Oahu,Kona Oahu
+58,flavimarginatus,1,MHI,Oahu,Kona Oahu
+58,meleagris,0,MHI,Oahu,Kona Oahu
+58,undulatus,0,MHI,Oahu,Kona Oahu
+59,eurostus,0,MHI,Oahu,Kona Oahu
+59,flavimarginatus,0,MHI,Oahu,Kona Oahu
+59,meleagris,1,MHI,Oahu,Kona Oahu
+59,undulatus,2,MHI,Oahu,Kona Oahu
+60,eurostus,3,MHI,Oahu,Waialua
+60,flavimarginatus,0,MHI,Oahu,Waialua
+60,meleagris,0,MHI,Oahu,Waialua
+60,undulatus,0,MHI,Oahu,Waialua

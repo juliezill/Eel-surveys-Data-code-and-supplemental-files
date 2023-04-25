@@ -1,0 +1,336 @@
+EelID,Species,Observed_before_40_mins,SurveyNum,Head_height_cm,Total_body_length_cm,Biomass_g,Region,Island,Moku
+Eel001,Scuticaria tigrina,1,7,2.54,76.2,390.42,MHI,Hawaii,Kona Hawaii
+Eel002,Gymnothorax meleagris,1,7,7.62,76.2,929.15,MHI,Hawaii,Kona Hawaii
+Eel003,Gymnothorax meleagris,1,7,2.54,35.56,94.43,MHI,Hawaii,Kona Hawaii
+Eel004,Gymnothorax flavimarginatus,1,7,6.35,71.12,640.08,MHI,Hawaii,Kona Hawaii
+Eel005,Gymnothorax flavimarginatus,1,10,6.35,60.96,381.91,MHI,Hawaii,Kona Hawaii
+Eel006,Gymnothorax flavimarginatus,0,10,7.62,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel007,Gymnothorax meleagris,1,10,3.81,45.72,200.7,MHI,Hawaii,Kona Hawaii
+Eel008,Gymnothorax meleagris,1,10,3.81,30.48,59.47,MHI,Hawaii,Kona Hawaii
+Eel009,Gymnothorax melatremus,1,10,1.27,20.32,10.91,MHI,Hawaii,Kona Hawaii
+Eel010,Gymnothorax melatremus,1,10,0.762,12.7,2.66,MHI,Hawaii,Kona Hawaii
+Eel011,Gymnothorax melatremus,0,10,1.524,20.32,10.91,MHI,Hawaii,Kona Hawaii
+Eel012,Gymnothorax melatremus,1,28,1.27,15.24,4.6,MHI,Niihau,Kona Niihau
+Eel013,Gymnothorax melatremus,1,28,1.27,15.24,4.6,MHI,Niihau,Kona Niihau
+Eel014,Gymnothorax melatremus,1,28,1.27,15.24,4.6,MHI,Niihau,Kona Niihau
+Eel015,Gymnothorax eurostus,1,28,1.27,15.24,4.04,MHI,Niihau,Kona Niihau
+Eel016,Gymnothorax flavimarginatus,0,28,9.652,91.44,1485.48,MHI,Niihau,Kona Niihau
+Eel017,Gymnothorax eurostus,1,48,1.905,20.32,10.45,NWHI,Lisianski,Lisianski
+Eel018,Gymnothorax eurostus,1,48,3.175,33.02,51.94,NWHI,Lisianski,Lisianski
+Eel019,Gymnothorax eurostus,1,48,1.905,17.78,6.72,NWHI,Lisianski,Lisianski
+Eel020,Gymnothorax flavimarginatus,1,48,6.35,68.58,566.66,NWHI,Lisianski,Lisianski
+Eel021,Gymnothorax eurostus,1,48,2.54,30.48,39.87,NWHI,Lisianski,Lisianski
+Eel022,Gymnothorax eurostus,1,32,2.54,27.94,29.91,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel023,Gymnothorax eurostus,1,32,1.905,22.86,15.42,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel024,Gymnothorax eurostus,1,32,2.032,22.86,15.42,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel025,Gymnothorax eurostus,1,37,3.175,30.48,39.87,NWHI,Maro,Maro
+Eel026,Gymnothorax eurostus,1,37,3.81,40.64,103.12,NWHI,Maro,Maro
+Eel027,Gymnothorax eurostus,1,37,1.905,20.32,10.45,NWHI,Maro,Maro
+Eel028,Gymnothorax eurostus,1,37,3.175,35.56,66.34,NWHI,Maro,Maro
+Eel029,Gymnothorax eurostus,1,37,2.54,27.94,29.91,NWHI,Maro,Maro
+Eel030,Gymnothorax meleagris,1,37,3.81,55.88,366.43,NWHI,Maro,Maro
+Eel031,Gymnothorax eurostus,1,52,1.905,20.32,10.45,NWHI,Laysan,Laysan
+Eel032,Gymnothorax eurostus,1,52,3.175,40.64,103.12,NWHI,Laysan,Laysan
+Eel033,Gymnothorax eurostus,1,52,3.81,40.64,103.12,NWHI,Laysan,Laysan
+Eel034,Gymnothorax eurostus,1,52,2.54,30.48,39.87,NWHI,Laysan,Laysan
+Eel035,Gymnothorax flavimarginatus,1,52,6.35,60.96,381.91,NWHI,Laysan,Laysan
+Eel036,Gymnothorax eurostus,1,52,1.905,22.86,15.42,NWHI,Laysan,Laysan
+Eel037,Gymnothorax albimarginatus,1,41,7.62,96.52,892.31,NWHI,Midway,Midway
+Eel038,Gymnothorax albimarginatus,1,41,7.62,91.44,752.57,NWHI,Midway,Midway
+Eel039,Gymnothorax undulatus,1,30,5.715,66.04,460.83,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel040,Gymnothorax meleagris,1,30,2.54,25.4,34.41,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel041,Gymnothorax eurostus,1,30,4.445,43.18,125.98,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel042,Gymnothorax undulatus,1,50,1.27,17.78,8.99,NWHI,Lisianski,Lisianski
+Eel043,Gymnothorax eurostus,1,50,1.905,20.32,10.45,NWHI,Lisianski,Lisianski
+Eel044,Gymnothorax eurostus,1,50,2.54,30.48,39.87,NWHI,Lisianski,Lisianski
+Eel045,Gymnothorax eurostus,1,50,1.524,20.32,10.45,NWHI,Lisianski,Lisianski
+Eel046,Gymnothorax flavimarginatus,0,50,7.62,76.2,806.51,NWHI,Lisianski,Lisianski
+Eel047,Gymnothorax eurostus,1,44,2.54,27.94,29.91,NWHI,Kure,Kure
+Eel048,Gymnothorax eurostus,1,44,2.032,22.86,15.42,NWHI,Kure,Kure
+Eel049,Gymnothorax eurostus,1,44,2.286,22.86,15.42,NWHI,Kure,Kure
+Eel050,Gymnothorax eurostus,1,42,1.524,20.32,10.45,NWHI,Kure,Kure
+Eel051,Gymnothorax eurostus,1,42,1.524,20.32,10.45,NWHI,Kure,Kure
+Eel052,Gymnothorax eurostus,1,42,2.54,35.56,66.34,NWHI,Kure,Kure
+Eel053,Gymnothorax eurostus,1,43,1.905,22.86,15.42,NWHI,Kure,Kure
+Eel054,Gymnothorax eurostus,1,43,2.032,22.86,15.42,NWHI,Kure,Kure
+Eel055,Gymnothorax undulatus,1,54,1.778,27.94,34.9,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel056,Gymnothorax eurostus,1,54,1.27,15.24,4.04,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel057,Gymnothorax eurostus,1,54,3.048,30.48,39.87,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel058,Gymnothorax eurostus,1,54,1.905,17.78,6.72,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel059,Gymnothorax eurostus,1,54,1.524,20.32,10.45,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel060,Gymnothorax eurostus,1,55,2.032,22.86,15.42,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel061,Gymnothorax eurostus,1,55,1.27,15.24,4.04,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel062,Gymnothorax flavimarginatus,1,55,2.032,30.48,37.46,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel063,Gymnothorax eurostus,1,55,1.905,25.4,21.83,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel064,Gymnothorax flavimarginatus,1,55,3.81,50.8,207.35,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel065,Gymnothorax eurostus,1,55,2.54,30.48,39.87,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel066,Gymnothorax undulatus,1,56,2.54,25.4,26.22,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel067,Gymnothorax undulatus,1,56,1.27,12.7,3.28,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel068,Gymnothorax eurostus,1,56,2.54,35.56,66.34,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel069,Gymnothorax eurostus,1,56,3.81,33.02,51.94,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel070,Gymnothorax eurostus,1,56,1.905,25.4,21.83,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel071,Gymnothorax undulatus,1,56,5.08,60.96,362.46,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel072,Gymnothorax eurostus,1,53,3.175,38.1,83.32,NWHI,Laysan,Laysan
+Eel073,Gymnothorax eurostus,1,53,1.905,27.94,29.91,NWHI,Laysan,Laysan
+Eel074,Gymnothorax eurostus,1,53,3.175,35.56,66.34,NWHI,Laysan,Laysan
+Eel075,Gymnothorax flavimarginatus,1,53,3.81,40.64,98.19,NWHI,Laysan,Laysan
+Eel076,Gymnothorax flavimarginatus,1,51,3.175,43.18,120.3,NWHI,Lisianski,Lisianski
+Eel077,Gymnothorax eurostus,1,51,2.54,30.48,39.87,NWHI,Lisianski,Lisianski
+Eel078,Gymnothorax eurostus,1,51,1.27,17.78,6.72,NWHI,Lisianski,Lisianski
+Eel079,Gymnothorax eurostus,1,51,1.905,22.86,15.42,NWHI,Lisianski,Lisianski
+Eel080,Gymnothorax eurostus,1,51,1.905,25.4,21.83,NWHI,Lisianski,Lisianski
+Eel081,Gymnothorax undulatus,1,47,5.08,55.88,279.18,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel082,Gymnothorax undulatus,1,47,3.81,43.18,128.82,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel083,Gymnothorax undulatus,1,47,3.81,43.18,128.82,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel084,Gymnothorax eurostus,1,47,1.27,17.78,6.72,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel085,Gymnothorax eurostus,1,46,2.286,25.4,21.83,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel086,Gymnothorax eurostus,1,46,2.54,30.48,39.87,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel087,Gymnothorax flavimarginatus,1,46,7.62,71.12,640.08,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel088,Gymnothorax eurostus,1,46,1.905,25.4,21.83,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel089,Gymnothorax eurostus,1,46,2.54,33.02,51.94,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel090,Gymnothorax eurostus,1,46,2.54,33.02,51.94,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel091,Gymnothorax flavimarginatus,1,35,3.175,27.94,27.98,NWHI,Maro,Maro
+Eel092,Gymnothorax flavimarginatus,1,35,4.445,38.1,79.1,NWHI,Maro,Maro
+Eel093,Gymnothorax undulatus,1,31,3.81,35.56,71.95,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel094,Gymnothorax eurostus,1,39,2.54,30.48,39.87,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel095,Gymnothorax eurostus,1,39,2.54,33.02,51.94,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel096,Gymnothorax eurostus,1,39,1.905,25.4,21.83,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel097,Gymnothorax eurostus,1,39,2.54,33.02,51.94,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel098,Gymnothorax eurostus,1,39,3.175,27.94,29.91,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel099,Gymnothorax eurostus,1,39,1.905,27.94,29.91,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel100,Gymnothorax eurostus,1,39,1.905,20.32,10.45,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel101,Gymnothorax flavimarginatus,1,29,5.715,43.18,120.3,MHI,Niihau,Kona Niihau
+Eel102,Gymnothorax flavimarginatus,1,29,8.89,81.28,1001.16,MHI,Niihau,Kona Niihau
+Eel103,Gymnothorax melatremus,1,29,1.27,22.86,15.53,MHI,Niihau,Kona Niihau
+Eel104,Gymnothorax eurostus,1,29,2.54,33.02,51.94,MHI,Niihau,Kona Niihau
+Eel105,Gymnothorax eurostus,1,33,1.905,22.86,15.42,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel106,Gymnothorax eurostus,1,33,1.905,27.94,29.91,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel107,Gymnothorax undulatus,1,33,3.81,40.64,107.39,NWHI,French Frigate Shoals,French Frigate Shoals
+Eel108,Gymnothorax eurostus,1,34,0.635,15.24,4.04,NWHI,Maro,Maro
+Eel109,Gymnothorax eurostus,1,34,2.54,22.86,15.42,NWHI,Maro,Maro
+Eel110,Gymnothorax eurostus,1,34,2.54,30.48,39.87,NWHI,Maro,Maro
+Eel111,Gymnothorax eurostus,1,34,1.778,22.86,15.42,NWHI,Maro,Maro
+Eel112,Gymnothorax eurostus,1,40,3.175,35.56,66.34,NWHI,Midway,Midway
+Eel113,Gymnothorax eurostus,1,40,2.54,30.48,39.87,NWHI,Midway,Midway
+Eel114,Gymnothorax eurostus,1,40,3.175,33.02,51.94,NWHI,Midway,Midway
+Eel115,Gymnothorax eurostus,1,40,1.905,20.32,10.45,NWHI,Midway,Midway
+Eel116,Gymnothorax eurostus,1,40,2.54,25.4,21.83,NWHI,Midway,Midway
+Eel117,Gymnothorax eurostus,1,40,2.54,25.4,21.83,NWHI,Midway,Midway
+Eel118,Gymnothorax eurostus,1,45,1.905,22.86,15.42,NWHI,Kure,Kure
+Eel119,Gymnothorax eurostus,1,45,1.905,20.32,10.45,NWHI,Kure,Kure
+Eel120,Gymnothorax eurostus,1,45,2.54,33.02,51.94,NWHI,Kure,Kure
+Eel121,Gymnothorax eurostus,1,45,1.905,22.86,15.42,NWHI,Kure,Kure
+Eel122,Gymnothorax eurostus,1,45,1.905,17.78,6.72,NWHI,Kure,Kure
+Eel123,Gymnothorax eurostus,1,45,1.905,20.32,10.45,NWHI,Kure,Kure
+Eel124,Gymnothorax eurostus,1,45,1.905,17.78,6.72,NWHI,Kure,Kure
+Eel125,Gymnothorax eurostus,1,45,1.905,17.78,6.72,NWHI,Kure,Kure
+Eel126,Gymnothorax eurostus,1,45,1.27,15.24,4.04,NWHI,Kure,Kure
+Eel127,Myrichthys magnificus,1,45,1.27,40.64,134.24,NWHI,Kure,Kure
+Eel128,Gymnothorax meleagris,1,57,3.175,38.1,116.14,MHI,Niihau,Kona Niihau
+Eel129,Gymnothorax flavimarginatus,1,57,8.255,86.36,1226.61,MHI,Niihau,Kona Niihau
+Eel130,Gymnothorax melatremus,1,57,1.27,15.24,4.6,MHI,Niihau,Kona Niihau
+Eel131,Gymnothorax melatremus,1,57,1.27,17.78,7.31,MHI,Niihau,Kona Niihau
+Eel132,Gymnothorax melatremus,0,57,1.905,22.86,15.53,MHI,Niihau,Kona Niihau
+Eel133,Gymnothorax eurostus,1,49,1.27,15.24,4.04,NWHI,Lisianski,Lisianski
+Eel134,Gymnothorax eurostus,1,49,1.905,22.86,15.42,NWHI,Lisianski,Lisianski
+Eel135,Gymnothorax eurostus,1,49,2.54,27.94,29.91,NWHI,Lisianski,Lisianski
+Eel136,Gymnothorax flavimarginatus,1,49,8.255,86.36,1226.61,NWHI,Lisianski,Lisianski
+Eel137,Gymnothorax undulatus,1,49,1.27,15.24,5.66,NWHI,Lisianski,Lisianski
+Eel138,Gymnothorax eurostus,1,50,1.905,17.78,6.72,NWHI,Lisianski,Lisianski
+Eel139,Gymnothorax melatremus,1,18,1.27,17.78,7.31,MHI,Hawaii,Kona Hawaii
+Eel140,Gymnothorax meleagris,1,18,2.54,30.48,59.47,MHI,Hawaii,Kona Hawaii
+Eel141,Gymnothorax eurostus,1,18,1.905,20.32,10.45,MHI,Hawaii,Kona Hawaii
+Eel142,Gymnothorax flavimarginatus,1,18,5.715,48.26,174.61,MHI,Hawaii,Kona Hawaii
+Eel143,Gymnothorax eurostus,1,18,1.27,12.7,2.21,MHI,Hawaii,Kona Hawaii
+Eel144,Gymnothorax eurostus,1,18,1.27,17.78,6.72,MHI,Hawaii,Kona Hawaii
+Eel145,Gymnothorax melatremus,1,18,0.635,15.24,4.6,MHI,Hawaii,Kona Hawaii
+Eel146,Gymnothorax melatremus,1,18,1.27,17.78,7.31,MHI,Hawaii,Kona Hawaii
+Eel147,Gymnothorax eurostus,1,19,1.905,30.48,39.87,MHI,Hawaii,Kona Hawaii
+Eel148,Gymnothorax flavimarginatus,1,19,9.525,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel149,Gymnothorax flavimarginatus,1,19,9.525,96.52,1780.44,MHI,Hawaii,Kona Hawaii
+Eel150,Gymnothorax eurostus,1,19,1.905,25.4,21.83,MHI,Hawaii,Kona Hawaii
+Eel151,Gymnothorax eurostus,1,19,2.54,25.4,21.83,MHI,Hawaii,Kona Hawaii
+Eel152,Gymnothorax eurostus,1,19,2.794,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel153,Gymnothorax eurostus,1,19,1.905,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel154,Gymnothorax eurostus,0,19,1.27,22.86,15.42,MHI,Hawaii,Kona Hawaii
+Eel155,Gymnothorax undulatus,0,19,6.985,66.04,460.83,MHI,Hawaii,Kona Hawaii
+Eel156,Gymnothorax undulatus,0,19,7.62,76.2,707.92,MHI,Hawaii,Kona Hawaii
+Eel157,Gymnothorax meleagris,1,20,2.54,30.48,59.47,MHI,Hawaii,Kohala
+Eel158,Gymnothorax melatremus,1,20,1.27,20.32,10.91,MHI,Hawaii,Kohala
+Eel159,Gymnothorax eurostus,1,20,1.905,25.4,21.83,MHI,Hawaii,Kohala
+Eel160,Gymnothorax melatremus,1,20,1.905,20.32,10.91,MHI,Hawaii,Kohala
+Eel161,Gymnothorax flavimarginatus,0,20,10.16,91.44,1485.48,MHI,Hawaii,Kohala
+Eel162,Enchelynassa canina,0,20,7.62,76.2,390.42,MHI,Hawaii,Kohala
+Eel163,Gymnothorax meleagris,1,20,5.08,60.96,475.72,MHI,Hawaii,Kohala
+Eel164,Gymnothorax flavimarginatus,1,20,7.62,81.28,1001.16,MHI,Hawaii,Kohala
+Eel165,Gymnothorax flavimarginatus,0,20,10.16,91.44,1485.48,MHI,Hawaii,Kohala
+Eel166,Gymnothorax eurostus,1,20,2.54,22.86,15.42,MHI,Hawaii,Kohala
+Eel167,Gymnothorax melatremus,1,20,1.905,25.4,21.3,MHI,Hawaii,Kohala
+Eel168,Scuticaria tigrina,1,21,3.175,71.12,325.99,MHI,Hawaii,Kohala
+Eel169,Gymnothorax flavimarginatus,1,21,3.175,55.88,285.34,MHI,Hawaii,Kohala
+Eel170,Gymnothorax melatremus,0,21,1.27,22.86,15.53,MHI,Hawaii,Kohala
+Eel171,Gymnothorax meleagris,0,21,6.985,66.04,604.84,MHI,Hawaii,Kohala
+Eel172,Gymnothorax eurostus,1,21,2.54,35.56,66.34,MHI,Hawaii,Kohala
+Eel173,Gymnothorax eurostus,1,21,2.54,35.56,66.34,MHI,Hawaii,Kohala
+Eel174,Gymnothorax meleagris,1,21,3.81,40.64,140.95,MHI,Hawaii,Kohala
+Eel175,Gymnothorax melatremus,1,21,1.27,20.32,10.91,MHI,Hawaii,Kohala
+Eel176,Gymnothorax meleagris,1,21,7.62,76.2,929.15,MHI,Hawaii,Kohala
+Eel177,Gymnothorax melatremus,1,21,1.905,17.78,7.31,MHI,Hawaii,Kohala
+Eel178,Gymnothorax eurostus,1,21,1.27,17.78,6.72,MHI,Hawaii,Kohala
+Eel179,Gymnothorax undulatus,1,21,3.81,60.96,362.46,MHI,Hawaii,Kohala
+Eel180,Gymnothorax eurostus,1,38,1.905,20.32,10.45,NWHI,Pearl and Hermes,Pearl and Hermes
+Eel181,Gymnothorax eurostus,1,40,1.905,17.78,6.72,NWHI,Midway,Midway
+Eel182,Gymnothorax flavimarginatus,1,8,7.62,81.28,1001.16,MHI,Hawaii,Kona Hawaii
+Eel183,Gymnothorax undulatus,1,8,5.08,73.66,639.46,MHI,Hawaii,Kona Hawaii
+Eel184,Scuticaria tigrina,1,8,2.54,60.96,217.87,MHI,Hawaii,Kona Hawaii
+Eel185,Gymnothorax meleagris,0,8,2.54,22.86,25.09,MHI,Hawaii,Kona Hawaii
+Eel186,Gymnothorax meleagris,1,8,1.27,15.24,7.43,MHI,Hawaii,Kona Hawaii
+Eel187,Gymnothorax flavimarginatus,1,8,9.525,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel188,Gymnothorax melatremus,1,8,0.635,12.7,2.66,MHI,Hawaii,Kona Hawaii
+Eel189,Gymnothorax flavimarginatus,0,8,9.525,101.6,2114.24,MHI,Hawaii,Kona Hawaii
+Eel190,Gymnothorax meleagris,1,9,7.62,71.12,755.43,MHI,Hawaii,Kona Hawaii
+Eel191,Gymnothorax pictus,1,9,6.35,71.12,593.61,MHI,Hawaii,Kona Hawaii
+Eel192,Gymnothorax melatremus,1,11,1.27,17.78,7.31,MHI,Hawaii,Kona Hawaii
+Eel193,Gymnothorax meleagris,1,11,1.524,25.4,34.41,MHI,Hawaii,Kona Hawaii
+Eel194,Gymnothorax flavimarginatus,1,11,6.985,81.28,1001.16,MHI,Hawaii,Kona Hawaii
+Eel195,Gymnothorax undulatus,1,11,5.08,50.8,209.75,MHI,Hawaii,Kona Hawaii
+Eel196,Gymnothorax flavimarginatus,0,11,6.985,81.28,1001.16,MHI,Hawaii,Kona Hawaii
+Eel197,Gymnothorax flavimarginatus,0,11,4.445,45.72,145.69,MHI,Hawaii,Kona Hawaii
+Eel198,Gymnothorax melatremus,1,12,1.27,15.24,4.6,MHI,Hawaii,Kona Hawaii
+Eel199,Gymnothorax undulatus,1,12,5.715,76.2,707.92,MHI,Hawaii,Kona Hawaii
+Eel200,Gymnothorax flavimarginatus,1,12,5.08,71.12,640.08,MHI,Hawaii,Kona Hawaii
+Eel201,Gymnothorax meleagris,1,12,2.54,35.56,94.43,MHI,Hawaii,Kona Hawaii
+Eel202,Gymnothorax eurostus,1,12,2.54,33.02,51.94,MHI,Hawaii,Kona Hawaii
+Eel203,Gymnothorax melatremus,1,12,1.27,22.86,15.53,MHI,Hawaii,Kona Hawaii
+Eel204,Gymnothorax meleagris,1,12,5.715,76.2,929.15,MHI,Hawaii,Kona Hawaii
+Eel205,Gymnothorax melatremus,1,12,1.524,25.4,21.3,MHI,Hawaii,Kona Hawaii
+Eel206,Gymnothorax eurostus,1,12,1.27,15.24,4.04,MHI,Hawaii,Kona Hawaii
+Eel207,Gymnothorax eurostus,1,12,1.905,25.4,21.83,MHI,Hawaii,Kona Hawaii
+Eel208,Gymnothorax flavimarginatus,0,12,9.525,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel209,Gymnothorax melatremus,1,12,1.27,17.78,7.31,MHI,Hawaii,Kona Hawaii
+Eel210,Gymnothorax flavimarginatus,1,12,7.62,71.12,640.08,MHI,Hawaii,Kona Hawaii
+Eel211,Gymnothorax meleagris,1,13,5.715,55.88,366.43,MHI,Hawaii,Kona Hawaii
+Eel212,Gymnothorax meleagris,1,13,1.524,22.86,25.09,MHI,Hawaii,Kona Hawaii
+Eel213,Gymnothorax meleagris,1,13,1.778,22.86,25.09,MHI,Hawaii,Kona Hawaii
+Eel214,Gymnothorax eurostus,1,13,2.54,30.48,39.87,MHI,Hawaii,Kona Hawaii
+Eel215,Gymnothorax eurostus,1,13,1.778,25.4,21.83,MHI,Hawaii,Kona Hawaii
+Eel216,Gymnothorax eurostus,1,13,1.778,22.86,15.42,MHI,Hawaii,Kona Hawaii
+Eel217,Scuticaria okinawae,1,13,4.445,76.2,390.42,MHI,Hawaii,Kona Hawaii
+Eel218,Gymnothorax flavimarginatus,1,13,5.08,71.12,640.08,MHI,Hawaii,Kona Hawaii
+Eel219,Gymnothorax eurostus,1,13,1.778,25.4,21.83,MHI,Hawaii,Kona Hawaii
+Eel220,Gymnothorax eurostus,1,13,2.032,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel221,Scuticaria tigrina,1,13,2.54,83.82,500.87,MHI,Hawaii,Kona Hawaii
+Eel222,Gymnothorax flavimarginatus,1,14,7.62,86.36,1226.61,MHI,Hawaii,Kona Hawaii
+Eel223,Gymnothorax flavimarginatus,0,14,5.08,60.96,381.91,MHI,Hawaii,Kona Hawaii
+Eel224,Gymnothorax meleagris,1,14,4.445,45.72,200.7,MHI,Hawaii,Kona Hawaii
+Eel225,Gymnothorax flavimarginatus,1,14,6.985,81.28,1001.16,MHI,Hawaii,Kona Hawaii
+Eel226,Gymnothorax eurostus,1,14,1.27,17.78,6.72,MHI,Hawaii,Kona Hawaii
+Eel227,Gymnothorax flavimarginatus,1,14,6.985,76.2,806.51,MHI,Hawaii,Kona Hawaii
+Eel228,Gymnothorax meleagris,1,16,6.35,71.12,755.43,MHI,Hawaii,Kona Hawaii
+Eel229,Gymnothorax eurostus,1,16,1.905,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel230,Scuticaria tigrina,0,16,2.54,76.2,390.42,MHI,Hawaii,Kona Hawaii
+Eel231,Gymnothorax flavimarginatus,1,16,10.16,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel232,Gymnothorax meleagris,0,16,1.27,15.24,7.43,MHI,Hawaii,Kona Hawaii
+Eel233,Gymnothorax eurostus,1,17,1.016,15.24,4.04,MHI,Hawaii,Kona Hawaii
+Eel234,Gymnothorax eurostus,1,17,1.905,20.32,10.45,MHI,Hawaii,Kona Hawaii
+Eel235,Scuticaria tigrina,1,17,3.175,76.2,390.42,MHI,Hawaii,Kona Hawaii
+Eel236,Gymnothorax flavimarginatus,1,15,3.81,50.8,207.35,MHI,Hawaii,Kona Hawaii
+Eel237,Gymnothorax eurostus,1,15,1.524,20.32,10.45,MHI,Hawaii,Kona Hawaii
+Eel238,Gymnothorax flavimarginatus,1,15,8.89,86.36,1226.61,MHI,Hawaii,Kona Hawaii
+Eel239,Gymnothorax flavimarginatus,0,15,8.89,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel240,Gymnothorax meleagris,1,15,1.524,22.86,25.09,MHI,Hawaii,Kona Hawaii
+Eel241,Gymnothorax undulatus,1,15,1.27,15.24,5.66,MHI,Hawaii,Kona Hawaii
+Eel242,Gymnothorax flavimarginatus,1,15,9.906,101.6,2114.24,MHI,Hawaii,Kona Hawaii
+Eel243,Gymnothorax flavimarginatus,0,15,9.398,96.52,1780.44,MHI,Hawaii,Kona Hawaii
+Eel244,Gymnothorax undulatus,1,22,5.08,76.2,707.92,MHI,Hawaii,Kohala
+Eel245,Scuticaria tigrina,1,22,2.032,45.72,102.71,MHI,Hawaii,Kohala
+Eel246,Gymnothorax flavimarginatus,0,22,7.62,78.74,900.15,MHI,Hawaii,Kohala
+Eel247,Gymnothorax flavimarginatus,0,22,8.255,83.82,1109.88,MHI,Hawaii,Kohala
+Eel248,Gymnothorax flavimarginatus,1,22,7.62,81.28,1001.16,MHI,Hawaii,Kohala
+Eel249,Gymnothorax undulatus,1,22,7.62,76.2,707.92,MHI,Hawaii,Kohala
+Eel250,Scuticaria tigrina,0,22,3.175,71.12,325.99,MHI,Hawaii,Kohala
+Eel251,Gymnothorax eurostus,1,22,2.794,30.48,39.87,MHI,Hawaii,Kohala
+Eel252,Scuticaria tigrina,1,22,3.048,68.58,296.43,MHI,Hawaii,Kohala
+Eel253,Gymnothorax flavimarginatus,1,23,10.16,96.52,1780.44,MHI,Hawaii,Kohala
+Eel254,Gymnothorax flavimarginatus,1,23,9.652,91.44,1485.48,MHI,Hawaii,Kohala
+Eel255,Gymnothorax meleagris,1,23,1.524,20.32,17.62,MHI,Hawaii,Kohala
+Eel256,Gymnothorax flavimarginatus,1,23,6.985,60.96,381.91,MHI,Hawaii,Kohala
+Eel257,Scuticaria tigrina,1,24,3.048,68.58,296.43,MHI,Hawaii,Kona Hawaii
+Eel258,Gymnothorax meleagris,1,24,3.175,30.48,59.47,MHI,Hawaii,Kona Hawaii
+Eel259,Gymnothorax flavimarginatus,1,24,7.62,76.2,806.51,MHI,Hawaii,Kona Hawaii
+Eel260,Gymnothorax flavimarginatus,1,24,9.144,93.98,1628.28,MHI,Hawaii,Kona Hawaii
+Eel261,Gymnothorax melatremus,1,24,0.762,15.24,4.6,MHI,Hawaii,Kona Hawaii
+Eel262,Gymnothorax meleagris,1,24,1.778,25.4,34.41,MHI,Hawaii,Kona Hawaii
+Eel263,Gymnothorax melatremus,1,24,1.27,13.97,3.54,MHI,Hawaii,Kona Hawaii
+Eel264,Gymnothorax eurostus,1,24,2.286,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel265,Gymnothorax eurostus,1,24,1.778,25.4,21.83,MHI,Hawaii,Kona Hawaii
+Eel266,Gymnothorax melatremus,1,24,1.778,15.24,4.6,MHI,Hawaii,Kona Hawaii
+Eel267,Gymnothorax flavimarginatus,1,24,2.54,43.18,120.3,MHI,Hawaii,Kona Hawaii
+Eel268,Gymnothorax melatremus,1,25,0.7874,15.24,4.6,MHI,Hawaii,Kona Hawaii
+Eel269,Gymnothorax melatremus,1,25,0.7874,13.97,3.54,MHI,Hawaii,Kona Hawaii
+Eel270,Gymnothorax eurostus,1,25,3.175,33.02,51.94,MHI,Hawaii,Kona Hawaii
+Eel271,Gymnothorax eurostus,1,25,2.794,33.02,51.94,MHI,Hawaii,Kona Hawaii
+Eel272,Gymnothorax meleagris,1,25,3.175,30.48,59.47,MHI,Hawaii,Kona Hawaii
+Eel273,Scuticaria okinawae,1,25,3.302,60.96,217.87,MHI,Hawaii,Kona Hawaii
+Eel274,Gymnothorax undulatus,1,25,7.62,76.2,707.92,MHI,Hawaii,Kona Hawaii
+Eel275,Gymnothorax meleagris,1,25,5.715,60.96,475.72,MHI,Hawaii,Kona Hawaii
+Eel276,Gymnothorax eurostus,1,25,2.286,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel277,Gymnothorax melatremus,1,25,0.762,12.7,2.66,MHI,Hawaii,Kona Hawaii
+Eel278,Gymnothorax meleagris,1,25,2.794,30.48,59.47,MHI,Hawaii,Kona Hawaii
+Eel279,Gymnothorax eurostus,1,25,1.27,15.24,4.04,MHI,Hawaii,Kona Hawaii
+Eel280,Gymnothorax pictus,1,25,10.16,101.6,1912.41,MHI,Hawaii,Kona Hawaii
+Eel281,Scuticaria tigrina,1,25,3.175,60.96,217.87,MHI,Hawaii,Kona Hawaii
+Eel282,Gymnothorax flavimarginatus,0,25,10.922,116.84,3376.69,MHI,Hawaii,Kona Hawaii
+Eel283,Gymnothorax pictus,0,25,9.652,96.52,1616.27,MHI,Hawaii,Kona Hawaii
+Eel284,Gymnothorax meleagris,1,26,6.35,66.04,604.84,MHI,Hawaii,Kona Hawaii
+Eel285,Gymnothorax flavimarginatus,1,26,8.255,81.28,1001.16,MHI,Hawaii,Kona Hawaii
+Eel286,Gymnothorax flavimarginatus,0,26,8.89,91.44,1485.48,MHI,Hawaii,Kona Hawaii
+Eel287,Gymnothorax eurostus,1,26,1.905,20.32,10.45,MHI,Hawaii,Kona Hawaii
+Eel288,Gymnothorax meleagris,1,26,2.54,33.02,75.6,MHI,Hawaii,Kona Hawaii
+Eel289,Gymnothorax eurostus,1,26,1.905,20.32,10.45,MHI,Hawaii,Kona Hawaii
+Eel290,Gymnothorax eurostus,1,27,2.032,22.86,15.42,MHI,Hawaii,Kona Hawaii
+Eel291,Gymnothorax eurostus,1,27,2.032,22.86,15.42,MHI,Hawaii,Kona Hawaii
+Eel292,Gymnothorax eurostus,1,27,2.794,27.94,29.91,MHI,Hawaii,Kona Hawaii
+Eel293,Gymnothorax flavimarginatus,1,27,6.35,66.04,499.36,MHI,Hawaii,Kona Hawaii
+Eel294,Gymnothorax flavimarginatus,1,27,5.588,60.96,381.91,MHI,Hawaii,Kona Hawaii
+Eel295,Gymnothorax flavimarginatus,1,1,5.08,60.96,381.91,MHI,Oahu,Waianae
+Eel296,Gymnothorax flavimarginatus,1,2,6.35,71.12,640.08,MHI,Oahu,Kona Oahu
+Eel297,Gymnothorax flavimarginatus,1,2,8.89,81.28,1001.16,MHI,Oahu,Kona Oahu
+Eel298,Gymnothorax eurostus,1,3,2.54,30.48,39.87,MHI,Oahu,Kona Oahu
+Eel299,Gymnothorax meleagris,1,3,3.175,35.56,94.43,MHI,Oahu,Kona Oahu
+Eel300,Gymnothorax eurostus,1,3,1.524,20.32,10.45,MHI,Oahu,Kona Oahu
+Eel301,Gymnothorax meleagris,1,3,7.62,83.82,1236.69,MHI,Oahu,Kona Oahu
+Eel302,Gymnothorax flavimarginatus,0,3,8.255,88.9,1351.7,MHI,Oahu,Kona Oahu
+Eel303,Gymnothorax flavimarginatus,1,4,9.525,96.52,1780.44,MHI,Oahu,Kona Oahu
+Eel304,Gymnothorax undulatus,1,4,4.064,43.18,128.82,MHI,Oahu,Kona Oahu
+Eel305,Gymnothorax eurostus,1,4,2.54,33.02,51.94,MHI,Oahu,Kona Oahu
+Eel306,Gymnothorax flavimarginatus,1,4,10.16,101.6,2114.24,MHI,Oahu,Kona Oahu
+Eel307,Gymnothorax eurostus,1,5,3.81,40.64,103.12,MHI,Oahu,Kona Oahu
+Eel308,Gymnothorax eurostus,1,5,2.032,25.4,21.83,MHI,Oahu,Kona Oahu
+Eel309,Gymnothorax eurostus,1,5,1.905,25.4,21.83,MHI,Oahu,Kona Oahu
+Eel310,Gymnothorax meleagris,1,5,1.27,15.24,7.43,MHI,Oahu,Kona Oahu
+Eel311,Gymnothorax eurostus,1,5,2.54,30.48,39.87,MHI,Oahu,Kona Oahu
+Eel312,Gymnothorax flavimarginatus,1,5,11.43,106.68,2489.65,MHI,Oahu,Kona Oahu
+Eel313,Gymnothorax eurostus,1,5,2.794,38.1,83.32,MHI,Oahu,Kona Oahu
+Eel314,Gymnothorax eurostus,1,5,1.778,22.86,15.42,MHI,Oahu,Kona Oahu
+Eel315,Gymnothorax eurostus,1,5,3.048,35.56,66.34,MHI,Oahu,Kona Oahu
+Eel316,Gymnothorax eurostus,1,5,2.794,33.02,51.94,MHI,Oahu,Kona Oahu
+Eel317,Gymnothorax eurostus,1,5,3.81,40.64,103.12,MHI,Oahu,Kona Oahu
+Eel318,Gymnothorax flavimarginatus,1,5,8.89,91.44,1485.48,MHI,Oahu,Kona Oahu
+Eel319,Gymnothorax flavimarginatus,1,58,8.89,81.28,1001.16,MHI,Oahu,Kona Oahu
+Eel320,Gymnothorax eurostus,1,58,1.905,22.86,15.42,MHI,Oahu,Kona Oahu
+Eel321,Gymnothorax eurostus,1,58,2.54,30.48,39.87,MHI,Oahu,Kona Oahu
+Eel322,Gymnothorax undulatus,1,59,6.35,60.96,362.46,MHI,Oahu,Kona Oahu
+Eel323,Gymnothorax undulatus,1,59,7.62,68.58,516.07,MHI,Oahu,Kona Oahu
+Eel324,Gymnothorax meleagris,1,59,5.08,40.64,140.95,MHI,Oahu,Kona Oahu
+Eel325,Gymnothorax eurostus,1,60,1.778,20.32,10.45,MHI,Oahu,Waialua
+Eel326,Gymnothorax eurostus,1,60,1.778,15.24,4.04,MHI,Oahu,Waialua
+Eel327,Scuticaria okinawae,1,60,2.794,50.8,135.28,MHI,Oahu,Waialua
+Eel328,Gymnothorax eurostus,1,60,2.794,33.02,51.94,MHI,Oahu,Waialua
+Eel329,Gymnothorax undulatus,1,6,3.302,35.56,71.95,MHI,Oahu,Kona Oahu
+Eel330,Gymnothorax eurostus,0,6,2.794,30.48,39.87,MHI,Oahu,Kona Oahu
+Eel331,Gymnothorax eurostus,1,6,1.524,17.78,6.72,MHI,Oahu,Kona Oahu
+Eel332,Gymnothorax meleagris,1,6,2.54,27.94,45.8,MHI,Oahu,Kona Oahu
+Eel333,Gymnothorax eurostus,1,6,1.778,20.32,10.45,MHI,Oahu,Kona Oahu
+Eel334,Gymnothorax eurostus,1,6,2.54,30.48,39.87,MHI,Oahu,Kona Oahu
+Eel335,Gymnothorax eurostus,1,6,3.048,33.02,51.94,MHI,Oahu,Kona Oahu
